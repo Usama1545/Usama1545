@@ -3,7 +3,7 @@
 -👨‍💻 I have experience in:
 -  **Backend Development**: Laravel
 -  **Frontend Development**: Vue.js, Bootstrap, HTML, CSS
-- 🌟 My expertise lies in crafting clean code, implementing responsive designs, and optimizing performance. I thrive in collaborative environments and am eager to tackle new challenges.
+-🌟 My expertise lies in crafting clean code, implementing responsive designs, and optimizing performance. I thrive in collaborative environments and am eager to tackle new challenges.
 - 💼 Let's work together to build exceptional digital experiences. Whether you're a startup or an established enterprise, I can help bring your vision to life.
 - 🔗 Let's connect and discuss how we can achieve your goals!
 - 📫 You can reach me through fiver link:https://www.fiverr.com/share/mgwgy7 or you can contact me on Whatapp number:923446410422
